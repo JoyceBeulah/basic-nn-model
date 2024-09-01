@@ -6,11 +6,12 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+Developing a neural network regression model entails a structured process, encompassing phases such as data acquisition, preprocessing, feature selection, model architecture determination, training, hyperparameter optimization, performance evaluation, and deployment, followed by ongoing monitoring for refinement.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/b868e4cd-4c1a-432b-a8d2-af7f44e57f15)
+
 
 ## DESIGN STEPS
 
@@ -102,22 +103,22 @@ marks_data.predict(X_n1_1)
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+![image](https://github.com/user-attachments/assets/ad9acfb8-200d-4a78-853a-529030f36801)
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/user-attachments/assets/26edce82-9348-440f-bcb3-28a13e2e9ef0)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![image](https://github.com/user-attachments/assets/9f59482f-97c3-4e58-8b02-e35d98af5573)
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/a140fe42-79cc-41d9-9831-0e3e1b066d92)
 
 ## RESULT
 
-Include your result here
+Thus the program executed successfully
